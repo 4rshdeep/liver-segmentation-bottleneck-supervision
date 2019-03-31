@@ -1,2 +1,1 @@
-# liver-segmentation
-# liver-segmentation
+# Liver-segmentation-bottleneck-supervision
